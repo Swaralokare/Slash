@@ -20,8 +20,8 @@ public class SplashActivity extends Activity {
 
     //  private TextView textView;
     private ProgressBar progressBar;
-    private ImageView imageView;//
-    Handler handler1;//
+    private ImageView imageView;
+    Handler handler1;
     SplashActivity splashActivity;
     private TimeThread timeThread;
     @Override
